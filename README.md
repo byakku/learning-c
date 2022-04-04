@@ -1,2 +1,2 @@
 # learning-c
-Mini programs because learning C.
+Suffering with C.
